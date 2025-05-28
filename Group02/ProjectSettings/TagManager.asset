@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -38,6 +38,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 2069600645
+    locked: 0
+  - name: Grass
+    uniqueID: 2700459791
+    locked: 0
+  - name: Rock
+    uniqueID: 2457818225
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  m_RenderingLayers:
+  - Default

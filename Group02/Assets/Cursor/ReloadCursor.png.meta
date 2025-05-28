@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ReloadCursor_0: -1795782145759530926
+      ReloadCursor_1: -1575846173783938945
+      ReloadCursor_2: -1526453140426020141
+      ReloadCursor_3: 7828535361742412238
+      ReloadCursor_4: 6866341491466717387
+      ReloadCursor_5: -1252074122437950695
+      ReloadCursor_6: -576703424668681605
+      ReloadCursor_7: -4626265795505472761
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
