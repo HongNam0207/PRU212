@@ -28,5 +28,6 @@ public class Player : MonoBehaviour
 
         // Chuẩn hóa để không đi nhanh hơn chéo góc, rồi nhân tốc độ
         rb.linearVelocity = playerInput.normalized * moveSpeed;
+
     }
 }

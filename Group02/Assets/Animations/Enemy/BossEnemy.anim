@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BossEnermy
+  m_Name: BossEnemy
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -22,15 +22,15 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: -3699697277425479114, guid: 7616c4d9d304fce4d9de4500ae9fe4cb, type: 3}
-    - time: 0.15
+    - time: 0.18333334
       value: {fileID: -4775921564711464125, guid: 7616c4d9d304fce4d9de4500ae9fe4cb, type: 3}
-    - time: 0.31666666
+    - time: 0.35
       value: {fileID: -8723313695607313066, guid: 7616c4d9d304fce4d9de4500ae9fe4cb, type: 3}
-    - time: 0.43333334
+    - time: 0.53333336
       value: {fileID: 3155980564302634847, guid: 7616c4d9d304fce4d9de4500ae9fe4cb, type: 3}
-    - time: 0.6
+    - time: 0.7
       value: {fileID: -7992233595133191514, guid: 7616c4d9d304fce4d9de4500ae9fe4cb, type: 3}
-    - time: 0.75
+    - time: 0.8833333
       value: {fileID: 8165657760637830194, guid: 7616c4d9d304fce4d9de4500ae9fe4cb, type: 3}
     attribute: m_Sprite
     path: 
@@ -65,7 +65,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.76666665
+    m_StopTime: 0.9
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
