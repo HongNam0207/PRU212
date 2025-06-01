@@ -32,7 +32,7 @@ public abstract class Enemy : MonoBehaviour
     {
         if (player != null)
         {
-            transform.localScale = new Vector3( player.transform.position.x < transform.position.x ? -1 : 1, 1, 1);
+            transform.localScale = new Vector3(player.transform.position.x < transform.position.x ? -1 : 1, 1, 1);
         }
     }
     public virtual void TakeDamage()
@@ -41,6 +41,6 @@ public abstract class Enemy : MonoBehaviour
     }
     protected virtual void Die()
     {
-        Destroy(gameOject);
+        //Destroy(gameOject);
     }
 }
