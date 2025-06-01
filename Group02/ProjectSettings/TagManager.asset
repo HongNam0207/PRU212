@@ -38,17 +38,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Ground
-    uniqueID: 2069600645
-    locked: 0
-  - name: Player
-    uniqueID: 2700459791
-    locked: 0
   - name: Rock
     uniqueID: 2457818225
     locked: 0
+  - name: Ground
+    uniqueID: 2069600645
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2700459791
     locked: 0
   m_RenderingLayers:
   - Default
