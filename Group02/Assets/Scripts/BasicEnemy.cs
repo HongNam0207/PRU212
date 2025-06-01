@@ -6,7 +6,7 @@ public class BasicEnemy : Enemy
     {
         if (collision.CompareTag("Player"))
         {
-            player.TakeDamege();
+            //player.TakeDamege();
 
         }
     }
