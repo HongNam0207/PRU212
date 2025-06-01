@@ -41,7 +41,7 @@ TagManager:
   - name: Ground
     uniqueID: 2069600645
     locked: 0
-  - name: Grass
+  - name: Player
     uniqueID: 2700459791
     locked: 0
   - name: Rock
