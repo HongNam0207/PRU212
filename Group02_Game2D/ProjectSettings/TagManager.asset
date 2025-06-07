@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - PlayerBullet
+  - Enemy
+  - Energy
   layers:
   - Default
   - TransparentFX
@@ -62,6 +64,15 @@ TagManager:
     locked: 0
   - name: Gun
     uniqueID: 575632951
+    locked: 0
+  - name: Enemy
+    uniqueID: 4146107519
+    locked: 0
+  - name: HpBar
+    uniqueID: 4162432307
+    locked: 0
+  - name: Energy
+    uniqueID: 3957742163
     locked: 0
   m_RenderingLayers:
   - Default
